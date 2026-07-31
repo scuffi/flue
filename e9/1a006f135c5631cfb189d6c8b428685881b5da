@@ -1,0 +1,33 @@
+apps/docs/src/content/docs/ecosystem/sandboxes/cloudflare-computer.md
+  s_d2d5c90431634a::t_97c5d387726f0d 78,108-110,161-162,165-170
+packages/runtime/src/cloudflare/computer.test.ts
+  s_3bac4a8ecb5284::t_8f0092becfc5bf 1-2,4-5,28-35,60-67,71-78,118-119,123,125,129,143-145,150-151,155-158,162-164,170-174,179-181,186-190,195-197,201-205,210-211,225-227,230-233,235-239,246,248-254,256,259,262-267,270-273,284,286-326,331-334
+packages/vite/src/cloudflare-entry-computer.test.ts
+  s_3bac4a8ecb5284::t_0d560a3a5c1a2e 3,29-31,47-49,63-68,84-86,88-90,92-94,128-130
+packages/vite/src/cloudflare-entry.ts
+  s_3bac4a8ecb5284::t_7d9dae43e344a6 59-60,119-122,152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e91a006f135c5631cfb189d6c8b428685881b5da",
+  "prompts": {},
+  "sessions": {
+    "s_3bac4a8ecb5284": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8a0b-3dd5-742d-80b2-4fa4ebfbbb1b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "scuffi <aferguson@cloudflare.com>"
+    },
+    "s_d2d5c90431634a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fa8ed-9626-7793-bd78-49d1bae24dcb",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "scuffi <aferguson@cloudflare.com>"
+    }
+  }
+}
